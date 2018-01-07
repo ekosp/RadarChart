@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Radar Chart</string>
+    <string name="extraversion">Extraversion</string>
+    <string name="agreeableness">Agreeableness</string>
+    <string name="conscientiousness">Conscientiousness</string>
+    <string name="emotional_stability">Emotional Stability</string>
+    <string name="intellect_imagination">Intelect Imagination</string>
 </resources>
